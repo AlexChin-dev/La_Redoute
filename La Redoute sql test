@@ -1,0 +1,4 @@
+La Redoute sql test
+
+Build a query that will show in which city people buy goods that meet the condition more often: 
+Clothes are more expensive than 5000 rubles or furniture is more expensive than 20000 rubles.
